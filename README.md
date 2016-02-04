@@ -44,7 +44,7 @@ repository in a local manifest of git-repo:
   > repo sync
   track OpenLMIS dev branch (for non-forked projects):
   > git checkout --track openlmis-origin/dev
-  OR if you're on a forked OpenLMIS (see step 3):
+  OR if you are using a forked OpenLMIS repository upstream (see step 3):
   > git checkout --track forked-origin/dev
   ```
 5. Create a new module and write your source by following the instructions in 
